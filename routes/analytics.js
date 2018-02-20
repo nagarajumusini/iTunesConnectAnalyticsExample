@@ -5,9 +5,9 @@ var itc = require('itunesconnectanalytics');
 var Itunes = itc.Itunes;
 var AnalyticsQuery = itc.AnalyticsQuery;
 
-var username = 'sgfinrep@gmail.com';
-var password = 'SgFinRep@1';
-var appId = '293875'; //Found in My Apps -> App -> Apple ID or read below on getting the app id.
+var username = '';
+var password = '';
+var appId = ''; //Found in My Apps -> App -> Apple ID or read below on getting the app id.
 
 
 /* GET users listing. */
